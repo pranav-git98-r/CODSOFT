@@ -1,2 +1,2 @@
 # CODSOFT
-this repository is made to store my internship projects of codsoft
+this repository is made 
